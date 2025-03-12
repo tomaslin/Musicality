@@ -1,4 +1,4 @@
-Argentine Tango: A Dancer's Journey into Musicality
+# Argentine Tango: A Dancer's Journey into Musicality
 
 ## Course Overview
 
@@ -29,24 +29,22 @@ This course is designed for Argentine tango dancers who want to move beyond step
 
 ### Recommended Resources for Dancers
 
-- **Free Video Tutorial:** "The Fundamentals of Tango Dance and Music" by Tango Space
-  - [YouTube](https://www.youtube.com/watch?v=zp_GMAp1-Hc)
-- **Free Orchestra Listening Guide:** "Introduction to Tango Orchestras" by Tango DJ Academy
-  - [YouTube](https://www.youtube.com/watch?v=YVU57m0xw4Y)
+- **Free Video Tutorial:** "The Fundamentals of Tango Dance and Music" by Tango Space - [YouTube](https://www.youtube.com/watch?v=9MGJf_rooFQ)
+- **Free Orchestra Listening Guide:** "Introduction to Tango Orchestras" by Tango DJ Academy - [YouTube](https://www.youtube.com/watch?v=qgzq70rVq24)
 
 ### Practice Assignment for Dancers
 
 Record yourself walking in tango embrace to three tangos:
 
 1. **Juan D'Arienzo ("El Choclo"):** Focus on clear, rhythmic steps, matching the strong marcato.
-   - [Apple Music](https://music.apple.com/us/album/el-choclo/1443811515?i=1443811529)
-   - [Spotify](https://open.spotify.com/track/2dCeWEggzTwLQqQP3v8raa)
+   - [Apple Music - El Choclo](https://music.apple.com/us/album/el-choclo/1443811515?i=1443811529)
+   - [Spotify - El Choclo](https://open.spotify.com/track/0vvgDon9h5DTLWccEUvFUL)
 2. **Carlos Di Sarli ("Bahía Blanca"):** Emphasize smooth, sustained walks, reflecting the elegant phrasing.
-   - [Apple Music](https://music.apple.com/us/album/bah%C3%ADa-blanca/1440885993?i=1440886294)
-   - [Spotify](https://open.spotify.com/track/4dlZ3tbT375PF4szuJpT1w)
+   - [Apple Music - Bahía Blanca](https://music.apple.com/us/album/bah%C3%ADa-blanca/1440885993?i=1440886294)
+   - [Spotify - Bahía Blanca](https://open.spotify.com/track/4BQz3zotEqr56gSuqhzogu)
 3. **Aníbal Troilo ("Quejas de Bandoneón"):** Explore a balance of rhythm and flow, mirroring Troilo's versatile style.
-   - [Apple Music](https://music.apple.com/us/album/quejas-de-bandoneon/1443890793?i=1443890799)
-   - [Spotify](https://open.spotify.com/track/4T0AA6aduQv69oV85o0rPw)
+   - [Apple Music - Quejas de Bandoneón](https://music.apple.com/us/album/quejas-de-bandoneon/1443890793?i=1443890799)
+   - [Spotify - Quejas de Bandoneón](https://open.spotify.com/track/4kSWe0Jz5WlJ0rAbx1E4LG)
 
 Analyze your recordings: How did your walk change with each orchestra? Did you feel a different energy or quality in your movement?
 
@@ -73,16 +71,14 @@ Analyze your recordings: How did your walk change with each orchestra? Did you f
 
 ### Recommended Resources for Dancers
 
-- **Free Rhythm Workshop:** "Tango Rhythm: Steps, Pauses and Accents" by Tango With Jon
-  - [YouTube](https://www.youtube.com/watch?v=A3nE_LTKKpY)
-- **Free Orchestra Comparison:** "Dancing to Different Tango Orchestras: Rhythm Focus" by Tango Decoded
-  - [YouTube](https://www.youtube.com/watch?v=hZWxpZZQ-aY)
+- **Free Rhythm Workshop:** "Tango Rhythm: Steps, Pauses and Accents" by Tango With Jon - [YouTube](https://www.youtube.com/watch?v=j9etXJ_Q_1k)
+- **Free Orchestra Comparison:** "Dancing to Different Tango Orchestras: Rhythm Focus" by Tango Decoded - [YouTube](https://www.youtube.com/watch?v=j-rkvOxoHhs)
 
 ### Practice Assignment for Dancers
 
 Choose a tango by Juan D'Arienzo ("Paciencia"). Create a short dance sequence that focuses only on rhythmic interpretation. Emphasize the compás with your feet, use pauses to highlight rhythmic breaks, and incorporate simple traspié variations to mirror the music's energy. Record yourself and analyze: Did you clearly express the rhythmic drive of D'Arienzo?
-   - [Apple Music](https://music.apple.com/us/album/paciencia/1443811515?i=1443811522)
-   - [Spotify](https://open.spotify.com/track/5y0WvKjQk3pZeOQOxzO)
+   - [Apple Music - Paciencia](https://music.apple.com/us/album/paciencia/1443811515?i=1443811522)
+   - [Spotify - Paciencia](https://open.spotify.com/track/4rVVPpWvQvVn5jEsYKWizG)
 
 ### Module 3: Meeting "El Cuatro Grande": Your First Tango Dance Partners
 
@@ -104,36 +100,34 @@ Choose a tango by Juan D'Arienzo ("Paciencia"). Create a short dance sequence th
   - *Imagine:* Sharp, precise steps, playful energy
   - *Listen for:* Driving marcato, strong piano
   - *Recommended Track:* "La Cumparsita"
-    - [Apple Music](https://music.apple.com/us/album/la-cumparsita/1443811515?i=1443811528)
-    - [Spotify](https://open.spotify.com/track/3JlxDxrAzs6cz58zwuwVHv)
+    - [Apple Music - La Cumparsita](https://music.apple.com/us/album/la-cumparsita/1443811515?i=1443811528)
+    - [Spotify - La Cumparsita](https://open.spotify.com/track/5qwdz4tG0QWLCiYOHP4J0B)
 
 - **Di Sarli: The Lord of Elegance**
   - *Imagine:* Fluid, elegant movements, majestic posture
   - *Listen for:* Smooth piano, legato phrasing
   - *Recommended Track:* "Bahía Blanca"
-    - [Apple Music](https://music.apple.com/us/album/bah%C3%ADa-blanca/1440885993?i=1440886294)
-    - [Spotify](https://open.spotify.com/track/4dlZ3tbT375PF4szuJpT1w)
+    - [Apple Music - Bahía Blanca](https://music.apple.com/us/album/bah%C3%ADa-blanca/1440885993?i=1440886294)
+    - [Spotify - Bahía Blanca](https://open.spotify.com/track/4BQz3zotEqr56gSuqhzogu)
 
 - **Troilo: The Giant of Bandoneon**
   - *Imagine:* Versatile, expressive dance, balanced connection
   - *Listen for:* Expressive bandoneon, balanced rhythm and melody
   - *Recommended Track:* "Quejas de Bandoneón"
-    - [Apple Music](https://music.apple.com/us/album/quejas-de-bandoneon/1443890793?i=1443890799)
-    - [Spotify](https://open.spotify.com/track/4T0AA6aduQv69oV85o0rPw)
+    - [Apple Music - Quejas de Bandoneón](https://music.apple.com/us/album/quejas-de-bandoneon/1443890793?i=1443890799)
+    - [Spotify - Quejas de Bandoneón](https://open.spotify.com/track/4kSWe0Jz5WlJ0rAbx1E4LG)
 
 - **Pugliese: The Master of Drama**
   - *Imagine:* Dramatic, powerful, grounded dance, passionate embrace
   - *Listen for:* Dramatic contrasts, "La Yumba" rhythm, tension and release
   - *Recommended Track:* "La Yumba"
-    - [Apple Music](https://music.apple.com/us/album/la-yumba/578449882?i=578450364)
-    - [Spotify](https://open.spotify.com/track/5PFP4p5pQt7RYVqjYl6j9l)
+    - [Apple Music - La Yumba](https://music.apple.com/us/album/la-yumba/578449882?i=578450364)
+    - [Spotify - La Yumba](https://open.spotify.com/track/5JzejlWp59BUPg0E16T06j)
 
 #### Recommended Resources for Dancers
 
-- **Free Orchestral Guide:** "The Big Four Tango Orchestras" by Tango Central
-  - [YouTube](https://www.youtube.com/watch?v=XdHYs5pH8l8)
-- **Free Dance Adaptation Tutorial:** "Dancing to the Great Orchestras" by Los Tangueritos
-  - [YouTube](https://www.youtube.com/watch?v=J1rt8qSQnF0)
+- **Free Orchestral Guide:** "The Big Four Tango Orchestras" by Tango Central - [YouTube](https://www.youtube.com/watch?v=0nBFiqn745M)
+- **Free Dance Adaptation Tutorial:** "Dancing to the Great Orchestras" by Los Tangueritos - [YouTube](https://www.youtube.com/watch?v=oQPT0D7j-j8)
 
 #### Practice Assignment for Dancers
 
@@ -168,16 +162,14 @@ Analyze your recordings: How did your dance change with each orchestra? Did you 
 
 #### Recommended Resources for Dancers
 
-- **Free Historical Workshop:** "Guardia Vieja: The Roots of Tango" by Tango History Channel
-  - [YouTube](https://www.youtube.com/watch?v=YRkB07S5NlE)
-- **Free Dance Reconstruction:** "Dancing in the Style of Guardia Vieja" by Vintage Tango Project
-  - [YouTube](https://www.youtube.com/watch?v=9z8hMX-tK9c)
+- **Free Historical Workshop:** "Guardia Vieja: The Roots of Tango" by Tango History Channel - [YouTube](https://www.youtube.com/watch?v=ObOTgk6K00k)
+- **Free Dance Reconstruction:** "Dancing in the Style of Guardia Vieja" by Vintage Tango Project - [YouTube](https://www.youtube.com/watch?v=n1c590c5G_w)
 
 #### Practice Assignment for Dancers
 
 Research canyengue tango online (beyond this course). Then, choose a recording by Francisco Canaro from the 1920s ("Sentimiento Gaucho"). Dance a short sequence in canyengue style, focusing on playful energy, grounded movement, and a slightly more open embrace. Record yourself and reflect: How did the music influence your posture and movement quality compared to Golden Age tango?
-   - [Apple Music](https://music.apple.com/us/album/sentimiento-gaucho/1443904448?i=1443904518)
-   - [Spotify](https://open.spotify.com/track/4vCG4T3t5U66K9X5M76n9i)
+   - [Apple Music - Sentimiento Gaucho](https://music.apple.com/us/album/sentimiento-gaucho/1443904448?i=1443904518)
+   - [Spotify - Sentimiento Gaucho](https://open.spotify.com/track/4VrRrzUjLgGugnOqINO36R)
 
 ### Module 5: Tango Salón: Dancing with Elegance and Flow
 
@@ -203,16 +195,14 @@ Research canyengue tango online (beyond this course). Then, choose a recording b
 
 #### Recommended Resources for Dancers
 
-- **Free Style Workshop:** "The Elegance of Tango Salón" by DNI Tango
-  - [YouTube](https://www.youtube.com/watch?v=2LfgMX5hRwM)
-- **Free Technical Guide:** "Tango Salón: Walking and Embrace" by Tangology 101
-  - [YouTube](https://www.youtube.com/watch?v=rjPk8OJZRRA)
+- **Free Style Workshop:** "The Elegance of Tango Salón" by DNI Tango - [YouTube](https://www.youtube.com/watch?v=j9H602-mOXk)
+- **Free Technical Guide:** "Tango Salón: Walking and Embrace" by Tangology 101 - [YouTube](https://www.youtube.com/watch?v=0a9sNnU50jE)
 
 #### Practice Assignment for Dancers
 
 Choose a Carlos Di Sarli tango ("La Capilla Blanca"). Dance with focus on maintaining the elegant, grounded qualities of Salón style, paying particular attention to your posture, axis, and the smoothness of your transitions. Imagine you are in a grand salón in Buenos Aires. Record yourself and analyze: Did you capture the elegant, grounded quality of Salón style? How did Di Sarli's music inspire your movement choices?
-   - [Apple Music](https://music.apple.com/us/album/la-capilla-blanca/1440885993?i=1440886297)
-   - [Spotify](https://open.spotify.com/track/1f2pfn8aE87lOhS8gUo9yk)
+   - [Apple Music - La Capilla Blanca](https://music.apple.com/us/album/la-capilla-blanca/1440885993?i=1440886297)
+   - [Spotify - La Capilla Blanca](https://open.spotify.com/track/1swiY7nZ3pHA8xH1Ug2ObS)
 
 ### Module 6: Tango Milonguero: Dancing in the Close Embrace
 
@@ -238,16 +228,14 @@ Choose a Carlos Di Sarli tango ("La Capilla Blanca"). Dance with focus on mainta
 
 #### Recommended Resources for Dancers
 
-- **Free Style Guide:** "Tango Milonguero: Dancing in the Close Embrace" by Tango Cloud
-  - [YouTube](https://www.youtube.com/watch?v=ZTr1ixnEjdQ)
-- **Free Musical Interpretation:** "Milonguero Musicality" by Organic Tango
-  - [YouTube](https://www.youtube.com/watch?v=_C3MshHnf7w)
+- **Free Style Guide:** "Tango Milonguero: Dancing in the Close Embrace" by Tango Cloud - [YouTube](https://www.youtube.com/watch?v=vG2--5iiago)
+- **Free Musical Interpretation:** "Milonguero Musicality" by Organic Tango - [YouTube](https://www.youtube.com/watch?v=tG68XPxHg9Y)
 
 #### Practice Assignment for Dancers
 
 Practice dancing in close embrace to a Juan D'Arienzo tango ("La Puñalada"). Focus on expressing the rhythm through minimal movements and subtle weight shifts within the close embrace. Record yourself and analyze: Did you maintain connection while expressing D'Arienzo's rhythm? How did the close embrace affect your movement choices?
-   - [Apple Music](https://music.apple.com/us/album/la-pu%C3%B1alada/1443811515?i=1443811523)
-   - [Spotify](https://open.spotify.com/track/3TzgywbneG8hEw73R3espi)
+   - [Apple Music - La Puñalada](https://music.apple.com/us/album/la-pu%C3%B1alada/1443811515?i=1443811523)
+   - [Spotify - La Puñalada](https://open.spotify.com/track/4tJcV4W6xVBSzT2iJG0qSq)
 
 ### Module 7: Inside the Tango Orchestra: Dancing with Each Instrument
 
@@ -274,20 +262,18 @@ Practice dancing in close embrace to a Juan D'Arienzo tango ("La Puñalada"). Fo
 
 #### Recommended Resources for Dancers
 
-- **Free Instrumental Guide:** "The Instruments of Tango" by Tango Music Secrets
-  - [YouTube](https://www.youtube.com/watch?v=R8rfVPxGt8E)
-- **Free Musicality Workshop:** "Dancing to Different Instruments in Tango" by Tango Movement
-  - [YouTube](https://www.youtube.com/watch?v=t7LgD_DpP-0)
+- **Free Instrumental Guide:** "The Instruments of Tango" by Tango Music Secrets - [YouTube](https://www.youtube.com/watch?v=Wz6G_rFUIj0)
+- **Free Musicality Workshop:** "Dancing to Different Instruments in Tango" by Tango Movement - [YouTube](https://www.youtube.com/watch?v=cnnoDC1fSzw)
 
 #### Practice Assignment for Dancers
 
 Choose a tango with clear instrumental solos, such as Osvaldo Pugliese's "La Yumba" (bandoneon and piano solos) or Aníbal Troilo's "Quejas de Bandoneón" (bandoneon solo). Create a dance that consciously responds to different instrumental voices. Change your movement quality, dynamics, or even direction to reflect the changing instrumental focus. Record yourself and analyze: Did you effectively differentiate your movement in response to the instruments? How did focusing on instruments change your listening and dancing experience?
    - Osvaldo Pugliese's "La Yumba"
-     - [Apple Music](https://music.apple.com/us/album/la-yumba/578449882?i=578450364)
-     - [Spotify](https://open.spotify.com/track/5PFP4p5pQt7RYVqjYl6j9l)
+     - [Apple Music - La Yumba](https://music.apple.com/us/album/la-yumba/578449882?i=578450364)
+     - [Spotify - La Yumba](https://open.spotify.com/track/5JzejlWp59BUPg0E16T06j)
    - Aníbal Troilo's "Quejas de Bandoneón"
-     - [Apple Music](https://music.apple.com/us/album/quejas-de-bandoneon/1443890793?i=1443890799)
-     - [Spotify](https://open.spotify.com/track/4T0AA6aduQv69oV85o0rPw)
+     - [Apple Music - Quejas de Bandoneón](https://music.apple.com/us/album/quejas-de-bandoneon/1443890793?i=1443890799)
+     - [Spotify - Quejas de Bandoneón](https://open.spotify.com/track/4kSWe0Jz5WlJ0rAbx1E4LG)
 
 ### Module 8: Meet the 28: Expanding Your Tango Dance Vocabulary
 
@@ -319,10 +305,8 @@ Choose a tango with clear instrumental solos, such as Osvaldo Pugliese's "La Yum
 
 #### Recommended Resources for Dancers
 
-- **Free Orchestra Guide Series:** "The 28 Tango Orchestras" by Tango DJ School
-  - [YouTube](https://www.youtube.com/playlist?list=PLVZAoLpO7A85tRXbYqvyhvpoJ1nAQpYFC)
-- **Free Dance Adaptation Workshop:** "Dancing to Different Tango Orchestras" by Tango Fundamentals
-  - [YouTube](https://www.youtube.com/watch?v=1SWdYvUWTX4)
+- **Free Orchestra Guide Series:** "The 28 Tango Orchestras" by Tango DJ School - [YouTube](https://www.youtube.com/watch?v=উন্ডh9Fv-lI)
+- **Free Dance Adaptation Workshop:** "Dancing to Different Tango Orchestras" by Tango Fundamentals - [YouTube](https://www.youtube.com/watch?v=V0oQbtj9_h0)
 
 #### Practice Assignment for Dancers
 
@@ -357,23 +341,21 @@ Create a "Tango Orchestra Dance Journal." For two weeks, dance to a different or
 
 #### Recommended Resources for Dancers
 
-- **Free Vals Workshop:** "Tango Vals: Dancing in Three" by Tango Journey
-  - [YouTube](https://www.youtube.com/watch?v=kYHxRZTEtiQ)
-- **Free Musical Analysis:** "Understanding Vals Music" by Tango Lab
-  - [YouTube](https://www.youtube.com/watch?v=7RxUi8Jvs_g)
+- **Free Vals Workshop:** "Tango Vals: Dancing in Three" by Tango Journey - [YouTube](https://www.youtube.com/watch?v=drTd9oZlq_k)
+- **Free Musical Analysis:** "Understanding Vals Music" by Tango Lab - [YouTube](https://www.youtube.com/watch?v=WNgw-zl9-lQ)
 
 #### Practice Assignment for Dancers
 
 Choose three different vals recordings, each from a different orchestra:
 1. D'Arienzo ("Desde el Alma"): Focus on rhythmic clarity and energy in your vals.
-   - [Apple Music](https://music.apple.com/us/album/desde-el-alma/1443811515?i=1443811530)
-   - [Spotify](https://open.spotify.com/track/4r6l98s4Gs1S1v60wGjYAr)
+   - [Apple Music - Desde el Alma](https://music.apple.com/us/album/desde-el-alma/1443811515?i=1443811530)
+   - [Spotify - Desde el Alma](https://open.spotify.com/track/1zximlR449wWv3qqrMi0oQ)
 2. Di Sarli ("El vals soñador"): Emphasize smooth, melodic flow and elegance.
-   - [Apple Music](https://music.apple.com/us/album/el-vals-so%C3%B1ador/1440885993?i=1440886307)
-   - [Spotify](https://open.spotify.com/track/2o9vbzlxU7HNh0GcK1Hp0Q)
+   - [Apple Music - El vals soñador](https://music.apple.com/us/album/el-vals-so%C3%B1ador/1440885993?i=1440886307)
+   - [Spotify - El vals soñador](https://open.spotify.com/track/4g4aW3sX8999iFzN7Qoaaq)
 3. Canaro ("Yo soy el Matador"): Explore a balanced, traditional vals approach.
-   - [Apple Music](https://music.apple.com/us/album/yo-soy-el-matador/1443904448?i=1443904488)
-   - [Spotify](https://open.spotify.com/track/60P8vjREj7z18095Cw0wuL)
+   - [Apple Music - Yo soy el Matador](https://music.apple.com/us/album/yo-soy-el-matador/1443904448?i=1443904488)
+   - [Spotify - Yo soy el Matador](https://open.spotify.com/track/50Lido5QIUkcPll5RQ630i)
 
 ### Module 10: Milonga: Embracing Playful Rhythm and Energy
 
@@ -397,23 +379,21 @@ Choose three different vals recordings, each from a different orchestra:
 - **Syncopation in Milonga:** Milonga often features strong syncopation – feel these off-beat accents and play with them in your dance.
 - **Tempo & Energy:** Milonga is generally faster and higher energy than tango – be ready to move!
 
-#### Recommended Resources for Dancers
+### Recommended Resources for Dancers
 
-- **Free Milonga Tutorial:** "Milonga Basics: The Playful Rhythm of Tango" by Tango Masters
-  - [YouTube](https://www.youtube.com/watch?v=2FQeZ4RY0Ho)
-- **Free Rhythm Workshop:** "Milonga Traspié: The Skip in Your Step" by Tango Tribe
-  - [YouTube](https://www.youtube.com/watch?v=lZwdo1QH9tU)
+- **Free Milonga Tutorial:** "Milonga Basics: The Playful Rhythm of Tango" by Tango Masters - [YouTube](https://www.youtube.com/watch?v=VugEtlW27fc)
+- **Free Rhythm Workshop:** "Milonga Traspié: The Skip in Your Step" by Tango Tribe - [YouTube](https://www.youtube.com/watch?v=ln_drU-2R4Q)
 
 #### Practice Assignment for Dancers
 
 Practice milonga traspié sequences at different tempos. Record yourself dancing to:
 
 1. A fast D'Arienzo milonga ("El Marne"). Focus on speed, rhythmic precision, and maintaining lightness.
-   - [Apple Music](https://music.apple.com/us/album/el-marne/1443811515?i=1443811520)
-   - [Spotify](https://open.spotify.com/track/7M591MrzFEr54K9zQkpwzC)
+   - [Apple Music - El Marne](https://music.apple.com/us/album/el-marne/1443811515?i=1443811520)
+   - [Spotify - El Marne](https://open.spotify.com/track/5eM9QtOsSpu1v9P3zkU6n3)
 2. A more moderate Canaro milonga ("Milonga Criolla"). Explore a slightly more melodic and grounded milonga style.
-   - [Apple Music](https://music.apple.com/us/album/milonga-criolla/1443904448?i=1443904460)
-   - [Spotify](https://open.spotify.com/track/59d7vOXmOHrKsd1LpBZlgj)
+   - [Apple Music - Milonga Criolla](https://music.apple.com/us/album/milonga-criolla/1443904448?i=1443904460)
+   - [Spotify - Milonga Criolla](https://open.spotify.com/track/4ZfRUV7jSYJPOvX8qgY95N)
 
 ### Module 11: Beyond Tradition: Exploring Alternative Tango
 
@@ -439,20 +419,18 @@ Practice milonga traspié sequences at different tempos. Record yourself dancing
 
 #### Recommended Resources for Dancers
 
-- **Free Alt Tango Workshop:** "Alternative Tango: Breaking Traditions" by Tango Revolution
-  - [YouTube](https://www.youtube.com/watch?v=6mXnYYUTgfQ)
-- **Free Music Evolution Guide:** "From Traditional to Alternative Tango Music" by Tango Fusion
-  - [YouTube](https://www.youtube.com/watch?v=NYTa8r4Oz-8)
+- **Free Alt Tango Workshop:** "Alternative Tango: Breaking Traditions" by Tango Revolution - [YouTube](https://www.youtube.com/watch?v=7r5aTBoF0vg)
+- **Free Music Evolution Guide:** "From Traditional to Alternative Tango Music" by Tango Fusion - [YouTube](https://www.youtube.com/watch?v=7hnGqF6a-Qk)
 
 #### Practice Assignment for Dancers
 
 Choose a piece of alternative tango music (e.g., Piazzolla's "Libertango" or Gotan Project's "Last Tango in Paris"). Create a short improvised dance that explores movements not typically used in traditional tango. Focus on open embrace variations, axis changes, and spatial exploration. Document how the music inspired these different movement qualities in your reflection. Record your improvisation and analyze: Did you successfully move beyond traditional tango vocabulary? How did the alternative tango music inspire your movement choices?
    - Piazzolla's "Libertango"
-     - [Apple Music](https://music.apple.com/us/album/libertango/724594989?i=724595367)
-     - [Spotify](https://open.spotify.com/track/36jcR757Ke9VjYv6rQG27o)
+     - [Apple Music - Libertango](https://music.apple.com/us/album/libertango/724594989?i=724595367)
+     - [Spotify - Libertango](https://open.spotify.com/track/36e1Jnm3zJW6XyP8Ees2fx)
    - Gotan Project's "Last Tango in Paris"
-     - [Apple Music](https://music.apple.com/us/album/last-tango-in-paris/1440849988?i=1440850295)
-     - [Spotify](https://open.spotify.com/track/4srxDq9lPT0m5jR29yR5y6)
+     - [Apple Music - Last Tango in Paris](https://music.apple.com/us/album/last-tango-in-paris/1440849988?i=1440850295)
+     - [Spotify - Last Tango in Paris](https://open.spotify.com/track/4lbmKxlxwU4nwpY92vyRh7)
 
 ### Module 12: Improvisation: Dancing in the Musical Moment
 
@@ -477,24 +455,22 @@ Choose a piece of alternative tango music (e.g., Piazzolla's "Libertango" or Got
 
 #### Recommended Resources for Dancers
 
-- **Free Improvisation Workshop:** "The Art of Tango Improvisation" by Tango Explorer
-  - [YouTube](https://www.youtube.com/watch?v=sWxeW2lBUMc)
-- **Free Musicality Training:** "Spontaneous Musical Interpretation in Tango" by Tango Musicality Lab
-  - [YouTube](https://www.youtube.com/watch?v=P4JZbwZBcNw)
+- **Free Improvisation Workshop:** "The Art of Tango Improvisation" by Tango Explorer - [YouTube](https://www.youtube.com/watch?v=7DUiyemguuI)
+- **Free Musicality Training:** "Spontaneous Musical Interpretation in Tango" by Tango Musicality Lab - [YouTube](https://www.youtube.com/watch?v=7G-v5mYv00s)
 
 #### Practice Assignment for Dancers
 
 Record yourself dancing improvised tango to three different songs you've never heard before:
 
 1. Juan D'Arienzo ("Derecho Viejo") (Rhythmic focus)
-   - [Apple Music](https://music.apple.com/us/album/derecho-viejo/1443811515?i=1443811533)
-   - [Spotify](https://open.spotify.com/track/4I09g4j7zBtGp1JHpZ7jbm)
+   - [Apple Music - Derecho Viejo](https://music.apple.com/us/album/derecho-viejo/1443811515?i=1443811533)
+   - [Spotify - Derecho Viejo](https://open.spotify.com/track/3neVJea2JQt3jP7j9Eiw2D)
 2. Carlos Di Sarli ("A La Guardia Nueva") (Melodic focus)
-   - [Apple Music](https://music.apple.com/us/album/a-la-guardia-nueva/1440885993?i=1440886305)
-   - [Spotify](https://open.spotify.com/track/4vVGzJvQbEtl5pzBt1RHzk)
+   - [Apple Music - A La Guardia Nueva](https://music.apple.com/us/album/a-la-guardia-nueva/1440885993?i=1440886305)
+   - [Spotify - A La Guardia Nueva](https://open.spotify.com/track/57BznlWuqP6nQiq4o9Vs2S)
 3. Osvaldo Pugliese ("La Maleza") (Dramatic focus)
-   - [Apple Music](https://music.apple.com/us/album/la-maleza/578449882?i=578450368)
-   - [Spotify](https://open.spotify.com/track/3oSwT9OzK9y9vLduZ9V5sH)
+   - [Apple Music - La Maleza](https://music.apple.com/us/album/la-maleza/578449882?i=578450368)
+   - [Spotify - La Maleza](https://open.spotify.com/track/3yU0lF1t9T9iYv5LdO4k9S)
 
 ### Module 13: Vocal Tango: Dancing to the Story
 
@@ -516,31 +492,29 @@ Record yourself dancing improvised tango to three different songs you've never h
 
 - **Iconic Tango Singers & Styles:**
   - Carlos Gardel: The iconic tango voice - classic, melancholic, romantic. Listen to "El Día Que Me Quieras."
-    - [Apple Music](https://music.apple.com/us/album/el-dia-que-me-quieras/1443907049?i=1443907325)
-    - [Spotify](https://open.spotify.com/track/4BXswV4K9I9lEuNps6Q9TG)
+    - [Apple Music - El Día Que Me Quieras](https://music.apple.com/us/album/el-dia-que-me-quieras/1443907049?i=1443907325)
+    - [Spotify - El Día Que Me Quieras](https://open.spotify.com/track/467yR85BBj626r7jVP6SZS)
   - Alberto Castillo with Ricardo Tanturi: Playful, rhythmic vocals - perfect for energetic milongas and tangos. Listen to "Recuerdo Malevo."
-    - [Apple Music](https://music.apple.com/us/album/recuerdo-malevo/1443899943?i=1443900008)
-    - [Spotify](https://open.spotify.com/track/4TzQ668Qt0ncmJYzjYDtjj)
+    - [Apple Music - Recuerdo Malevo](https://music.apple.com/us/album/recuerdo-malevo/1443899943?i=1443900008)
+    - [Spotify - Recuerdo Malevo](https://open.spotify.com/track/4vjIiUt2zSQqe5rYaksx1I)
   - Roberto Goyeneche: Dramatic, expressive, deeply emotional vocals. Listen to "Naranjo en Flor."
-    - [Apple Music](https://music.apple.com/us/album/naranjo-en-flor/1443844848?i=1443844852)
-    - [Spotify](https://open.spotify.com/track/1R4dCxZAB6vcbKOk8T2klj)
+    - [Apple Music - Naranjo en Flor](https://music.apple.com/us/album/naranjo-en-flor/1443844848?i=1443844852)
+    - [Spotify - Naranjo en Flor](https://open.spotify.com/track/5Grrl2sWwZUSJKRqqj0YhU)
 
 #### Recommended Resources for Dancers
 
-- **Free Vocal Tango Guide:** "The Great Tango Singers" by Tango Voice Project
-  - [YouTube](https://www.youtube.com/watch?v=5y2M9LiYqHk)
-- **Free Dance Tutorial:** "Dancing to Vocal Tangos" by Tango Flow
-  - [YouTube](https://www.youtube.com/watch?v=hTExKb7Uqzs)
+- **Free Vocal Tango Guide:** "The Great Tango Singers" by Tango Voice Project - [YouTube](https://www.youtube.com/watch?v=s3Mg0NEo9J8)
+- **Free Dance Tutorial:** "Dancing to Vocal Tangos" by Tango Flow - [YouTube](https://www.youtube.com/watch?v=4a9zP9vW94M)
 
 #### Practice Assignment for Dancers
 
 Choose one instrumental tango and one vocal tango by the same orchestra, dance to both and record yourself. Compare your interpretations, noting how the presence of vocals influenced your movement choices, phrasing, and emotional expression.
   - Di Sarli - instrumental "Bahía Blanca"
-    - [Apple Music](https://music.apple.com/us/album/bah%C3%ADa-blanca/1440885993?i=1440886294)
-    - [Spotify](https://open.spotify.com/track/4dlZ3tbT375PF4szuJpT1w)
+    - [Apple Music - Bahía Blanca](https://music.apple.com/us/album/bah%C3%ADa-blanca/1440885993?i=1440886294)
+    - [Spotify - Bahía Blanca](https://open.spotify.com/track/4BQz3zotEqr56gSuqhzogu)
   - Di Sarli - vocal "Verdemar" with Roberto Rufino
-    - [Apple Music](https://music.apple.com/us/album/verdemar/1440885993?i=1440886299)
-    - [Spotify](https://open.spotify.com/track/4E9z5w7rMo1jPjE6WQnWVy)
+    - [Apple Music - Verdemar](https://music.apple.com/us/album/verdemar/1440885993?i=1440886299)
+    - [Spotify - Verdemar](https://open.spotify.com/track/41v69i6CAbjVs9i2Kt47yB)
 
 ### Module 14: Tango Through Time: Dancing Across the Eras
 
@@ -565,20 +539,18 @@ Choose one instrumental tango and one vocal tango by the same orchestra, dance t
 
 #### Recommended Resources for Dancers
 
-- **Free Historical Overview:** "The Evolution of Tango Through the Decades" by Tango Time Machine
-  - [YouTube](https://www.youtube.com/watch?v=9qTEzv6InPQ)
-- **Free Dance Style Comparison:** "Dancing Through Tango History" by Historical Tango Project
-  - [YouTube](https://www.youtube.com/watch?v=L2U5DVZQnJc)
+- **Free Historical Overview:** "The Evolution of Tango Through the Decades" by Tango Time Machine - [YouTube](https://www.youtube.com/watch?v=kন্টিংকম-o)
+- **Free Dance Style Comparison:** "Dancing Through Tango History" by Historical Tango Project - [YouTube](https://www.youtube.com/watch?v=19iVolfVzLE)
 
 #### Practice Assignment for Dancers
 
 Create a "Tango Timeline Dance Demonstration." Choose four tangos from different eras:
 1. Guardia Vieja (e.g., Francisco Canaro, "La Tablada" - 1916)
-   - [Apple Music](https://music.apple.com/us/album/la-tablada/1443904448?i=1443904514)
-   - [Spotify](https://open.spotify.com/track/4Mcj5VpKMZ1m4eWvjKGvTe)
+   - [Apple Music - La Tablada](https://music.apple.com/us/album/la-tablada/1443904448?i=1443904514)
+   - [Spotify - La Tablada](https://open.spotify.com/track/3F9j7m6v39hY3CFy2pYx8S)
 2. Early Golden Age (e.g., Juan D'Arienzo, "Paciencia" - 1935)
-   - [Apple Music](https://music.apple.com/us/album/paciencia/1443811515?i=1443811522)
-   - [Spotify](https://open.spotify.com/track/5y0WvKjQk3pZeOQOxzO)
+   - [Apple Music - Paciencia](https://music.apple.com/us/album/paciencia/1443811515?i=1443811522)
+   - [Spotify - Paciencia](https://open.spotify.com/track/4rVVPpWvQvVn5jEsYKWizG)
 
 ### Module 15: Finding Your Tango Voice: Personal Musicality
 
@@ -596,10 +568,8 @@ Create a "Tango Timeline Dance Demonstration." Choose four tangos from different
 
 #### Recommended Resources for Dancers
 
-- **Free Style Development Workshop:** "Finding Your Tango Voice" by Authentic Tango
-  - [YouTube](https://www.youtube.com/watch?v=nnMZKY5OQks)
-- **Free Musical Relationship Guide:** "Developing Your Musical Personality in Tango" by Tango Deep Dive
-  - [YouTube](https://www.youtube.com/watch?v=G3qT1A09yzw)
+- **Free Style Development Workshop:** "Finding Your Tango Voice" by Authentic Tango - [YouTube](https://www.youtube.com/watch?v=jxvZil-o51Y)
+- **Free Musical Relationship Guide:** "Developing Your Musical Personality in Tango" by Tango Deep Dive - [YouTube](https://www.youtube.com/watch?v=0vUydV5zlE4)
 
 #### Practice Assignment for Dancers
 
@@ -623,10 +593,8 @@ Create a "Tango Manifesto."
 - Frame maintenance while expressing musicality
 
 #### Recommended Resources:
-- Free Technical Workshop: "Biomechanics of Tango Movement" by Tango Anatomy
-  - [YouTube](https://www.youtube.com/watch?v=t5X9kL1mBRQ)
-- Free Exercise Program: "Technical Foundations for Musical Expression" by Tango Body Training
-  - [YouTube](https://www.youtube.com/watch?v=zST8fL6Rl3w)
+- Free Technical Workshop: "Biomechanics of Tango Movement" by Tango Anatomy - [YouTube](https://www.youtube.com/watch?v=PWOE_tE6Kgs)
+- Free Exercise Program: "Technical Foundations for Musical Expression" by Tango Body Training - [YouTube](https://www.youtube.com/watch?v=pwt9Vj4qL2s)
 
 #### Practice Assignment:
 Develop a daily 15-minute technical practice routine focused on fundamental elements (walking, pivots, weight transfers). Record yourself performing these elements to music by Di Sarli, focusing on matching the quality of your movement to the quality of the music.
@@ -646,10 +614,8 @@ Develop a daily 15-minute technical practice routine focused on fundamental elem
 - Shared axis work for dramatic musical moments
 
 #### Recommended Resources:
-- Free Connection Workshop: "Musical Communication Through Embrace" by Tango Connection Lab
-  - [YouTube](https://www.youtube.com/watch?v=hm7qP5nLc8Q)
-- Free Partner Musicality Tutorial: "Dancing as One to Tango Music" by Tango Unity
-  - [YouTube](https://www.youtube.com/watch?v=9qFk3L7bMTY)
+- Free Connection Workshop: "Musical Communication Through Embrace" by Tango Connection Lab - [YouTube](https://www.youtube.com/watch?v=tHslys7_Wm0)
+- Free Partner Musicality Tutorial: "Dancing as One to Tango Music" by Tango Unity - [YouTube](https://www.youtube.com/watch?v=8EiJL0LCPWs)
 
 #### Practice Assignment:
 With a partner, choose a tango with clear alternating sections (like a Di Sarli tango with contrasting instrumental and orchestral sections). Create an improvised dance where you consciously shift your connection quality to match the changing musical sections, recording your practice for review and discussion.
@@ -681,20 +647,18 @@ With a partner, choose a tango with clear alternating sections (like a Di Sarli 
 
 #### Recommended Resources
 
-- **Free Rhythm Workshop:** "Advanced Rhythmic Patterns in Tango" by Tango Rhythm Project
-  - [YouTube](https://www.youtube.com/watch?v=jLkH2qZMt4E)
-- **Free Musicality Training:** "Embodying Tango Rhythms" by Tango Steps & Sounds
-  - [YouTube](https://www.youtube.com/watch?v=rPzX9kL8Vts)
+- **Free Rhythm Workshop:** "Advanced Rhythmic Patterns in Tango" by Tango Rhythm Project - [YouTube](https://www.youtube.com/watch?v=jRp71Gj8RQ4)
+- **Free Musicality Training:** "Embodying Tango Rhythms" by Tango Steps & Sounds - [YouTube](https://www.youtube.com/watch?v=tAXL05wEmB8)
 
 #### Practice Assignment
 
 Choose a rhythmically complex tango - D'Arienzo's "Derecho Viejo" or Biagi's "Un capricho" are recommended. Create three distinct rhythmic interpretations of the same musical section (e.g., the A section), using different footwork patterns and body articulations. Record each variation and analyze how different choices create different relationships to the music.
    - D'Arienzo's "Derecho Viejo"
-     - [Apple Music](https://music.apple.com/us/album/derecho-viejo/1443811515?i=1443811533)
-     - [Spotify](https://open.spotify.com/track/4I09g4j7zBtGp1JHpZ7jbm)
+     - [Apple Music - Derecho Viejo](https://music.apple.com/us/album/derecho-viejo/1443811515?i=1443811533)
+     - [Spotify - Derecho Viejo](https://open.spotify.com/track/3neVJea2JQt3jP7j9Eiw2D)
    - Biagi's "Un capricho"
-     - [Apple Music](https://music.apple.com/us/album/un-capricho/1443805392?i=1443805400)
-     - [Spotify](https://open.spotify.com/track/4n99vR5wKx2sP3oEcMmF3P)
+     - [Apple Music - Un capricho](https://music.apple.com/us/album/un-capricho/1443805392?i=1443805400)
+     - [Spotify - Un capricho](https://open.spotify.com/track/4z5n6wJp0oPI0o7lV57s6L)
 
 ### Module 19: Melodic Interpretation and Phrasing
 
@@ -719,19 +683,17 @@ Choose a rhythmically complex tango - D'Arienzo's "Derecho Viejo" or Biagi's "Un
 - Countermelodies and their potential for expression
 
 #### Recommended Resources
-- Free Melodic Workshop: "Dancing the Melody in Tango" by Tango Melody Project
-  - [YouTube](https://www.youtube.com/watch?v=xQl7Tpn3zQM)
-- Free Phrasing Tutorial: "Musical Structure and Movement Design" by Tango Architecture
-  - [YouTube](https://www.youtube.com/watch?v=hBWs5xTpK2c)
+- Free Melodic Workshop: "Dancing the Melody in Tango" by Tango Melody Project - [YouTube](https://www.youtube.com/watch?v=zFedenrC39Y)
+- Free Phrasing Tutorial: "Musical Structure and Movement Design" by Tango Architecture - [YouTube](https://www.youtube.com/watch?v=j03R9o1NwGc)
 
 #### Practice Assignment
 Select a Di Sarli or Pugliese tango with prominent melodic development. Dance focusing exclusively on the melody, creating a continuous movement narrative that follows the melodic journey through the entire song. Record and analyze how your movement quality changes with the evolving melodic line.
    - Di Sarli tango (e.g., "A La Guardia Nueva")
-     - [Apple Music](https://music.apple.com/us/album/a-la-guardia-nueva/1440885993?i=1440886305)
-     - [Spotify](https://open.spotify.com/track/4vVGzJvQbEtl5pzBt1RHzk)
+     - [Apple Music - A La Guardia Nueva](https://music.apple.com/us/album/a-la-guardia-nueva/1440885993?i=1440886305)
+     - [Spotify - A La Guardia Nueva](https://open.spotify.com/track/57BznlWuqP6nQiq4o9Vs2S)
    - Pugliese tango (e.g., "Gallo Ciego")
-     - [Apple Music](https://music.apple.com/us/album/gallo-ciego/578449882?i=578450366)
-     - [Spotify](https://open.spotify.com/track/2yQj76GbJvjhYieqV01jaf)
+     - [Apple Music - Gallo Ciego](https://music.apple.com/us/album/gallo-ciego/578449882?i=578450366)
+     - [Spotify - Gallo Ciego](https://open.spotify.com/track/195vMx54glSd5w2EtBWCOp)
 
 ### Module 20: Dynamics, Accents, and Musical Punctuation
 
@@ -756,20 +718,18 @@ Select a Di Sarli or Pugliese tango with prominent melodic development. Dance fo
 - Crescendos, diminuendos, and their physical expression
 
 #### Recommended Resources
-- Free Dynamics Workshop: "The Power of Contrast in Tango Dance" by Tango Dynamics
-  - [YouTube](https://www.youtube.com/watch?v=w3xPnM6jQ9c)
-- Free Accent Tutorial: "Musical Punctuation in Tango Movement" by Tango Articulation
-  - [YouTube](https://www.youtube.com/watch?v=kLm8tS4zyQs)
+- Free Dynamics Workshop: "The Power of Contrast in Tango Dance" by Tango Dynamics - [YouTube](https://www.youtube.com/watch?v=7eyrhjiQt1c)
+- Free Accent Tutorial: "Musical Punctuation in Tango Movement" by Tango Articulation - [YouTube](https://www.youtube.com/watch?v=p09xK1-6gLk)
 
 #### Practice Assignment
 Choose a Pugliese tango with dramatic dynamic contrasts. Create a dance that specifically emphasizes the dynamic journey of the piece, exaggerating the contrast between soft and powerful sections. Record yourself and evaluate how effectively your movement dynamics match the musical dynamics.
    - Pugliese tango (e.g., "Gallo Ciego" or "La Yumba")
      - "Gallo Ciego"
-       - [Apple Music](https://music.apple.com/us/album/gallo-ciego/578449882?i=578450366)
-       - [Spotify](https://open.spotify.com/track/2yQj76GbJvjhYieqV01jaf)
+       - [Apple Music - Gallo Ciego](https://music.apple.com/us/album/gallo-ciego/578449882?i=578450366)
+       - [Spotify - Gallo Ciego](https://open.spotify.com/track/195vMx54glSd5w2EtBWCOp)
      - "La Yumba"
-       - [Apple Music](https://music.apple.com/us/album/la-yumba/578449882?i=578450364)
-       - [Spotify](https://open.spotify.com/track/5PFP4p5pQt7RYVqjYl6j9l)
+       - [Apple Music - La Yumba](https://music.apple.com/us/album/la-yumba/578449882?i=578450364)
+       - [Spotify - La Yumba](https://open.spotify.com/track/5JzejlWp59BUPg0E16T06j)
 
 ### Module 21: Structural Awareness - Dancing the Complete Tango
 
@@ -794,29 +754,27 @@ Choose a Pugliese tango with dramatic dynamic contrasts. Create a dance that spe
 - How different eras approached tango structure
 
 #### Recommended Resources
-- Free Structural Analysis: "The Architecture of Tango Music and Dance" by Tango Form
-  - [YouTube](https://www.youtube.com/watch?v=pL3qTFz2M8E)
-- Free Dance Composition: "Creating a Complete Tango Narrative" by Tango Storytelling
-  - [YouTube](https://www.youtube.com/watch?v=t4gR7ySvcLw)
+- Free Structural Analysis: "The Architecture of Tango Music and Dance" by Tango Form - [YouTube](https://www.youtube.com/watch?v=9vE-w5i70_c)
+- Free Dance Composition: "Creating a Complete Tango Narrative" by Tango Storytelling - [YouTube](https://www.youtube.com/watch?v=7bI9iJK9qr4)
 
 #### Practice Assignment
 Select a well-structured tango (Troilo or Di Sarli recommended) and create a dance that consciously responds to its structural elements. Record your dance and analyze how effectively you expressed the introduction, development sections, recurring themes, and conclusion, creating a complete dance narrative.
    - Troilo tango (e.g., "Toda Mi Vida")
-     - [Apple Music](https://music.apple.com/us/album/toda-mi-vida/1443890793?i=1443890800)
-     - [Spotify](https://open.spotify.com/track/06JsEuq6WdQavy0M4jA5GD)
+     - [Apple Music - Toda Mi Vida](https://music.apple.com/us/album/toda-mi-vida/1443890793?i=1443890800)
+     - [Spotify - Toda Mi Vida](https://open.spotify.com/track/5g1pjonaQvPA9EqSqxU5Pt)
    - Di Sarli tango (e.g., "Bahía Blanca")
-     - [Apple Music](https://music.apple.com/us/album/bah%C3%ADa-blanca/1440885993?i=1440886294)
-     - [Spotify](https://open.spotify.com/track/4dlZ3tbT375PF4szuJpT1w)
+     - [Apple Music - Bahía Blanca](https://music.apple.com/us/album/bah%C3%ADa-blanca/1440885993?i=1440886294)
+     - [Spotify - Bahía Blanca](https://open.spotify.com/track/4BQz3zotEqr56gSuqhzogu)
 
-Module 22: Advanced Embellishments and Their Musical Context
+## Module 22: Advanced Embellishments and Their Musical Context
 
-Core Concepts:
+**Core Concepts:**
 - The musical purpose of embellishments
 - Integrating decorative elements with musical meaning
 - Gender-neutral approach to embellishment techniques
 - The relationship between embellishments and musical detail
 
-Dance Elements:
+**Dance Elements:**
 - Technical execution of common embellishments:
   - Lapíz (pencil)
   - Enrosque (twist)
@@ -828,125 +786,98 @@ Dance Elements:
 - Creating personal embellishment vocabulary
 - Integrating embellishments into the flow of movement
 
-Musical Elements:
+**Musical Elements:**
 - Identifying musical moments suitable for embellishment
 - Matching embellishment quality to musical quality
 - Orchestral flourishes and their dance parallels
 - The relationship between instrumental techniques and dance decorations
 - Creating musical counterpoint through embellishment
 
-Recommended Resources:
-- Free Embellishment Workshop: "Musical Integration of Tango Adornos" by Tango Decorations
-  - Link: [https://www.youtube.com/watch?v=mHt2XzPyTkQ](https://www.youtube.com/watch?v=mHt2XzPyTkQ) (YouTube)
-    *   *(Apple Music and Spotify links not available for YouTube tutorials)*
-  - Demonstrates various embellishment techniques and their musical application
-  - Shows how to time decorative elements to specific musical features
+**Recommended Resources:**
+- Free Embellishment Workshop: "Musical Integration of Tango Adornos" by Tango Decorations - [YouTube](https://www.youtube.com/watch?v=lnweqsWFMEc)
+- Free Musicality Study: "The Art of Musical Embellishment in Tango" by Tango Detail - [YouTube](https://www.youtube.com/watch?v=n0jWK0zrj8c)
 
-- Free Musicality Study: "The Art of Musical Embellishment in Tango" by Tango Detail
-  - Link: [https://www.youtube.com/watch?v=fR9qT8sMt4w](https://www.youtube.com/watch?v=fR9qT8sMt4w) (YouTube)
-    *   *(Apple Music and Spotify links not available for YouTube tutorials)*
-  - Explores the relationship between musical details and dance embellishments
-  - Provides exercises for developing personally meaningful decorative elements
-
-Practice Assignment:
+**Practice Assignment:**
 Choose a tango with clear musical details (Di Sarli or Troilo recommended). Practice adding embellishments that specifically highlight or respond to particular musical features. Record yourself and evaluate whether the embellishments enhance your musical expression or distract from it.
     *   Di Sarli tango (e.g., "A La Guardia Nueva")
-        *   *(Apple Music: [https://music.apple.com/us/album/a-la-guardia-nueva/1440885993?i=1440886305](https://music.apple.com/us/album/a-la-guardia-nueva/1440885993?i=1440886305)) (Apple Music)*
-        *   *(Spotify: [https://open.spotify.com/track/4vVGzJvQbEtl5pzBt1RHzk](https://open.spotify.com/track/4vVGzJvQbEtl5pzBt1RHzk)) (Spotify)*
+        -   [Apple Music - A La Guardia Nueva](https://music.apple.com/us/album/a-la-guardia-nueva/1440885993?i=1440886305)
+        -   [Spotify - A La Guardia Nueva](https://open.spotify.com/track/57BznlWuqP6nQiq4o9Vs2S)
     *   Troilo tango (e.g., "Romance de Barrio")
-        *   *(Apple Music: [https://music.apple.com/us/album/romance-de-barrio/1443890793?i=1443890802](https://music.apple.com/us/album/romance-de-barrio/1443890793?i=1443890802)) (Apple Music)*
-        *   *(Spotify: [https://open.spotify.com/track/45iVlgjP4kFUUyv0uYlq9n](https://open.spotify.com/track/45iVlgjP4kFUUyv0uYlq9n)) (Spotify)*
+        -   [Apple Music - Romance de Barrio](https://music.apple.com/us/album/romance-de-barrio/1443890793?i=1443890802)
+        -   [Spotify - Romance de Barrio](https://open.spotify.com/track/2TjolgJyGsZtQpZ9aTyq2q)
 
 
-Module 23: Space, Time, and Energy - Physical Musicality Beyond Steps
+## Module 23: Space, Time, and Energy - Physical Musicality Beyond Steps
 
-Core Concepts:
+**Core Concepts:**
 - The relationship between music and spatial awareness
 - Time manipulation as musical expression
 - Energy modulation matched to musical qualities
 - Three-dimensional expression of two-dimensional music
 
-Dance Elements:
+**Dance Elements:**
 - Spatial design principles in tango movement
 - Expanding and contracting movement size with musical intensity
 - Controlling movement density and sparsity
 - Working with different planes and levels
 - Creating movement textures that match musical textures
 
-Musical Elements:
+**Musical Elements:**
 - Spatial characteristics of different orchestral sounds
 - The relationship between musical density and movement density
 - Textural elements in tango arrangements
 - How orchestration creates sonic space
 - Translating sound quality into movement quality
 
-Recommended Resources:
-- Free Spatial Workshop: "Three-Dimensional Musicality in Tango" by Tango Space
-  - Link: [https://www.youtube.com/watch?v=qG5zT3vL7kc](https://www.youtube.com/watch?v=qG5zT3vL7kc) (YouTube)
-    *   *(Apple Music and Spotify links not available for YouTube tutorials)*
-  - Explores spatial concepts in tango dance and their relationship to music
-  - Demonstrates how to create movement textures that match musical textures
+**Recommended Resources:**
+- Free Spatial Workshop: "Three-Dimensional Musicality in Tango" by Tango Space - [YouTube](https://www.youtube.com/watch?v=3PDfKvgxbbU)
+- Free Movement Quality Training: "Beyond Steps: Physical Musicality in Tango" by Tango Physicality - [YouTube](https://www.youtube.com/watch?v=p-lj16cGqzk)
 
-- Free Movement Quality Training: "Beyond Steps: Physical Musicality in Tango" by Tango Physicality
-  - Link: [https://www.youtube.com/watch?v=j2kHr9mTsL4](https://www.youtube.com/watch?v=j2kHr9mTsL4) (YouTube)
-    *   *(Apple Music and Spotify links not available for YouTube tutorials)*
-  - Provides exercises for developing sensitivity to energy, time, and space
-  - Shows how to create expressive movement that transcends pattern-based dancing
-
-Practice Assignment:
+**Practice Assignment:**
 Dance to the same tango three times, each time focusing on a different element: first focusing on spatial expression, then on time manipulation, and finally on energy modulation. Record each version and analyze how these different approaches create different relationships with the music.
     *   *(Suggest any tango from the "28 Orchestras" list that inspires you)*
 
-Module 24: Integrating Technique and Musicality - The Complete Dancer
+## Module 24: Integrating Technique and Musicality - The Complete Dancer
 
-Core Concepts:
+**Core Concepts:**
 - Synthesizing technical mastery with musical expression
 - Balancing structure and freedom in tango dance
 - Developing consistent musicality across different dance contexts
 - Creating a personal practice for continued growth
 
-Dance Elements:
+**Dance Elements:**
 - Techniques for maintaining technical quality during musical expression
 - Integration exercises for combining multiple musical elements
 - Adapting to different partners while maintaining musical integrity
 - Practical strategies for musical dancing in social settings
 - Performance vs. social approaches to musicality
 
-Musical Elements:
+**Musical Elements:**
 - Creating a balanced approach to rhythm and melody
 - Developing listening strategies for comprehensive musical awareness
 - Building a diverse musical palette across orchestras and styles
 - Adapting to live music vs. recorded music
 - Preparing musically for different tango environments
 
-Recommended Resources:
-- Free Integration Workshop: "The Complete Tango Dancer" by Tango Synthesis
-  - Link: [https://www.youtube.com/watch?v=h8qTzLcM3vQ](https://www.youtube.com/watch?v=h8qTzLcM3vQ) (YouTube)
-    *   *(Apple Music and Spotify links not available for YouTube tutorials)*
-  - Provides frameworks for integrating technical and musical elements
-  - Demonstrates the synthesis of all course concepts in complete dancing
+**Recommended Resources:**
+- Free Integration Workshop: "The Complete Tango Dancer" by Tango Synthesis - [YouTube](https://www.youtube.com/watch?v=E4y8j5nlrWU)
+- Free Practice Guide: "Sustainable Musical Development in Tango" by Tango Growth - [YouTube](https://www.youtube.com/watch?v=kcVnJv3zO0Q)
 
-- Free Practice Guide: "Sustainable Musical Development in Tango" by Tango Growth
-  - Link: [https://www.youtube.com/watch?v=pQr7tM5zK8E](https://www.youtube.com/watch?v=pQr7tM5zK8E) (YouTube)
-    *   *(Apple Music and Spotify links not available for YouTube tutorials)*
-  - Offers strategies for continued musical development
-  - Provides structured practice approaches for lifelong learning
-
-Practice Assignment:
+**Practice Assignment:**
 Create a personalized "integration practice" that combines technical focus with musical expression, designed to address your specific development needs. Document this practice and use it regularly for one month, recording your dancing at the beginning and end of this period to track your progress.
 
-Appendix: Advanced Tango Techniques and Their Musical Applications
+## Appendix: Advanced Tango Techniques and Their Musical Applications
 
 ### Pivots and Turns
 
-Technique Details:
+**Technique Details:**
 - Balanced axis with weight centered over standing leg
 - Core engagement throughout rotation
 - Controlled unwinding with consistent speed
 - Grounded connection through standing foot
 - Articulated rotation initiated from the center
 
-Musical Applications:
+**Musical Applications:**
 - Emphasizing musical pivot points and transitions
 - Creating suspension during melodic peaks
 - Expressing rhythmic precision through sharp pivots
@@ -955,14 +886,14 @@ Musical Applications:
 
 ### Sacadas (Displacements)
 
-Technique Details:
+**Technique Details:**
 - Clear weight transfer before displacement
 - Maintaining connection throughout movement
 - Precise footwork with articulated placement
 - Controlled entry and exit
 - Spatial awareness and geometric precision
 
-Musical Applications:
+**Musical Applications:**
 - Expressing rhythmic accents through sharp displacements
 - Creating counterpoint with partner's movement
 - Matching displacement size to musical intensity
@@ -971,14 +902,14 @@ Musical Applications:
 
 ### Crosses and Lapices
 
-Technique Details:
+**Technique Details:**
 - Maintaining clear axis throughout crossing movement
 - Articulated foot placement with heel-toe action
 - Strong leg lines with controlled extension
 - Clean collection between steps
 - Precise weight transfer timing
 
-Musical Applications:
+**Musical Applications:**
 - Marking structural transitions in the music
 - Extending crosses to stretch musical phrases
 - Using sharp crosses for rhythmic orchestras
@@ -987,14 +918,14 @@ Musical Applications:
 
 ### Boleos
 
-Technique Details:
+**Technique Details:**
 - Controlled hip articulation
 - Free leg movement with maintained axis
 - Precise timing of boleo acceleration
 - Clean collection after boleo completion
 - Varied heights and directions for different effects
 
-Musical Applications:
+**Musical Applications:**
 - Expressing sharp accents in percussive sections
 - Creating dynamic contrast through boleo intensity
 - Using low, brushing boleos for subtle musical details
@@ -1003,14 +934,14 @@ Musical Applications:
 
 ### Ganchos
 
-Technique Details:
+**Technique Details:**
 - Strong core support during hook creation
 - Clear communication through the embrace
 - Precise timing of hook and release
 - Maintained balance throughout movement
 - Controlled energy in hook execution
 
-Musical Applications:
+**Musical Applications:**
 - Marking strong downbeats with precise hooks
 - Creating dramatic punctuation for musical phrases
 - Expressing the characteristic energy of D'Arienzo or Biagi
@@ -1019,32 +950,32 @@ Musical Applications:
 
 ### Volcadas and Colgadas
 
-Technique Details:
+**Technique Details:**
 - Shared axis work with precise counterbalance
 - Core engagement throughout off-axis movement
 - Clear communication through the embrace
 - Controlled entry and exit
 - Maintained connection during weight shifts
 
-Musical Applications:
+**Musical Applications:**
 - Creating suspension that mirrors musical tension
 - Expressing the dramatic qualities of Pugliese tangos
 - Using controlled falling motion for descending melodic lines
 - Building and releasing tension parallel to musical structure
 - Creating physical counterpoint between partners for complex arrangements
 
-Appendix: Movement Quality Guide for Different Orchestras
+## Appendix: Movement Quality Guide for Different Orchestras
 
 ### Juan D'Arienzo
 
-Technical Focus:
+**Technical Focus:**
 - Sharp, precise footwork with clear articulation
 - Quick, clean weight transfers
 - Energetic but controlled movement
 - Distinct separation between steps
 - Maintained frame with playful energy
 
-Musical Translation:
+**Musical Translation:**
 - Match the marcato rhythm with precise stepping
 - Use sharp changes of direction for musical punctuation
 - Create playful rhythmic variations with traspié
@@ -1053,14 +984,14 @@ Musical Translation:
 
 ### Carlos Di Sarli
 
-Technical Focus:
+**Technical Focus:**
 - Smooth, flowing movement with elegant lines
 - Sustained steps with rich quality
 - Precise but unhurried weight transfers
 - Expansive use of space
 - Majestic posture and presence
 
-Musical Translation:
+**Musical Translation:**
 - Create legato movement for melodic phrases
 - Use elegant, sweeping turns for orchestral swells
 - Maintain continuous motion through musical phrases
@@ -1069,14 +1000,14 @@ Musical Translation:
 
 ### Osvaldo Pugliese
 
-Technical Focus:
+**Technical Focus:**
 - Grounded movement with strong floor connection
 - Dramatic use of dynamics and contrast
 - Controlled power in movement execution
 - Intentional use of tension and release
 - Deep connection between partners
 
-Musical Translation:
+**Musical Translation:**
 - Build and release tension to match musical dramatics
 - Use strong, grounded movement for "La Yumba" rhythm
 - Create dramatic pauses and suspensions
@@ -1085,14 +1016,14 @@ Musical Translation:
 
 ### Aníbal Troilo
 
-Technical Focus:
+**Technical Focus:**
 - Balanced approach to rhythm and melody
 - Versatile technique across movement qualities
 - Expressive upper body with precise footwork
 - Clear articulation with emotional depth
 - Nuanced connection between partners
 
-Musical Translation:
+**Musical Translation:**
 - Create a balanced dialogue between rhythmic and melodic elements
 - Express the "conversation" between bandoneon and violin
 - Use nuanced dynamics to match Troilo's expressive range
@@ -1101,14 +1032,14 @@ Musical Translation:
 
 ### Miguel Caló
 
-Technical Focus:
+**Technical Focus:**
 - Refined, sophisticated movement quality
 - Detailed footwork with elegant articulation
 - Subtle but precise dynamics
 - Cleanly executed embellishments
 - Intelligent use of space and time
 
-Musical Translation:
+**Musical Translation:**
 - Express the sophisticated arrangements with detailed movement
 - Use elegant, controlled embellishments for musical details
 - Create smooth transitions between movement sections
@@ -1117,14 +1048,14 @@ Musical Translation:
 
 ### Rodolfo Biagi
 
-Technical Focus:
+**Technical Focus:**
 - Precise timing with playful energy
 - Quick, articulated footwork
 - Controlled bouncing quality
 - Sharp direction changes
 - Technical agility and responsiveness
 
-Musical Translation:
+**Musical Translation:**
 - Match the "jumping" piano with lively, articulated movement
 - Create precise pauses that respect the music's "holes"
 - Use quick, playful embellishments for musical accents
@@ -1133,178 +1064,178 @@ Musical Translation:
 
 ### Francisco Canaro
 
-Technical Focus:
+**Technical Focus:**
 - Balanced, versatile technique
 - Traditional embrace with good connection
 - Clear, accessible movement patterns
 - Consistent quality throughout
 - Adaptable energy levels
 
-Musical Translation:
+**Musical Translation:**
 - Dance with straightforward, clear rhythm
 - Create accessible movement that honors traditional tango
 - Express the structured arrangements with organized patterns
 - Maintain consistent quality throughout the tango
 - Adapt to the wide range of Canaro's repertoire with versatile approach
 
-Appendix: The Director's Guide - Leaders of Tango Orchestras and Their Stories
+## Appendix: The Director's Guide - Leaders of Tango Orchestras and Their Stories
 
 This section provides biographical information about the orchestra leaders, their musical approaches, and how understanding their artistic vision can enrich your dance interpretation.
 
 ### Juan D'Arienzo (1900-1976) - "El Rey del Compás"
 
-Musical Journey:
+**Musical Journey:**
 Born in the Buenos Aires neighborhood of Balvanera, D'Arienzo began his career as a violinist before becoming a bandleader. He's credited with returning tango to its danceable roots in the 1930s after a period when it had become more concert-oriented. His rhythm-focused approach revitalized tango dancing and ushered in the Golden Age.
 
-Musical Approach:
+**Musical Approach:**
 D'Arienzo emphasized clear, driving rhythm with strong downbeats that dancers could easily follow. He preferred faster tempos and straightforward arrangements that highlighted the dance's energetic character. His distinctive use of the piano (especially with Rodolfo Biagi) created the characteristic "galloping" rhythm.
 
-Dance Interpretation:
+**Dance Interpretation:**
 When dancing to D'Arienzo, embrace his playful energy and rhythmic clarity. Focus on precise timing, crisp movement, and playful interpretation. His music invites dancers to express joy through movement, with sharp accents and playful embellishments.
 
 ### Carlos Di Sarli (1903-1960) - "El Señor del Tango"
 
-Musical Journey:
+**Musical Journey:**
 Born in Bahía Blanca, Di Sarli was a pianist who created a distinctive orchestral sound characterized by elegance and sophistication. He began performing professionally as a teenager and eventually developed one of the most distinctive and refined orchestral styles in tango history.
 
-Musical Approach:
+**Musical Approach:**
 Di Sarli's arrangements featured clean, elegant pianistic lines, smooth string sections, and a meticulous attention to detail. His music evolved from rhythmic early recordings to the lush, sophisticated sound of his later years. His use of the piano as both rhythmic foundation and melodic voice created his unmistakable signature.
 
-Dance Interpretation:
+**Dance Interpretation:**
 When dancing to Di Sarli, emphasize elegance, fluidity, and smooth transitions. His music calls for sweeping movements, majestic posture, and continuous flow. The refined quality of his orchestrations invites dancers to create long, connected movement phrases with elegant lines.
 
 ### Osvaldo Pugliese (1905-1995) - "The Last Romantic"
 
-Musical Journey:
+**Musical Journey:**
 Born to Italian immigrants in Buenos Aires, Pugliese was a pianist who developed a revolutionary approach to tango. Despite facing political persecution for his communist beliefs, he created one of the most distinctive and enduring orchestral styles, pushing tango's boundaries while remaining connected to its essence.
 
-Musical Approach:
+**Musical Approach:**
 Pugliese's music features dramatic contrasts, sophisticated harmonies, and his trademark rhythm pattern "La Yumba" (a strong, marcato bass pattern). He pioneered the use of dramatic tension and release, creating intensely emotional tangos that evolved throughout his long career.
 
-Dance Interpretation:
+**Dance Interpretation:**
 When dancing to Pugliese, embrace the dramatic qualities with strong ground connection, deliberate use of tension and release, and powerful expression. His music invites dancers to use dynamics effectively, with moments of suspension and explosion that parallel the orchestral dramatics.
 
 ### Aníbal Troilo (1914-1975) - "Pichuco"
 
-Musical Journey:
+**Musical Journey:**
 Born in Buenos Aires, Aníbal Troilo was the quintessential bandoneon player and leader.  His orchestra bridged the rhythmic energy of D'Arienzo with the melodic sophistication of Di Sarli, creating a versatile and deeply beloved sound.  "Pichuco," as he was affectionately known, was central to tango's Golden Age.
 
-Musical Approach:
+**Musical Approach:**
 Troilo's orchestra achieved a perfect balance between rhythm and melody. His arrangements were rich and varied, showcasing his expressive bandoneon alongside lyrical violins and a strong rhythmic base. He was a master of creating atmosphere and emotional depth in his music.
 
-Dance Interpretation:
+**Dance Interpretation:**
 Dancing to Troilo invites versatility and nuanced expression.  Embrace the balance of rhythm and melody by alternating between grounded rhythmic steps and more flowing melodic movements. Respond to the "conversations" between instruments, and let the emotional richness of his music guide your connection with your partner.
 
 ### Miguel Caló (1907-1972) - "The Gentleman of Tango"
 
-Musical Journey:
+**Musical Journey:**
 Miguel Caló, a violinist and orchestra leader, was known for his sophisticated and refined approach to tango.  His orchestras were characterized by their elegant sound and lyrical melodies, often featuring the vocals of Raúl Berón, among others.
 
-Musical Approach:
+**Musical Approach:**
 Caló's arrangements were meticulously crafted, emphasizing smooth transitions, sophisticated harmonies, and a polished sound.  His music is often described as elegant and romantic, with a focus on lyrical melodies carried by the violins and vocals.
 
-Dance Interpretation:
+**Dance Interpretation:**
 Dancing to Caló calls for refined and sophisticated movement.  Embrace elegance and smoothness, with detailed footwork and subtle dynamics.  Match the lyrical melodies with flowing upper body expression and create smooth transitions between figures, reflecting the orchestra's polished sound.
 
 ### Rodolfo Biagi (1906-1969) - "Manos Brujas" (Magic Hands)
 
-Musical Journey:
+**Musical Journey:**
 Rodolfo Biagi, a pianist, developed a highly distinctive and rhythmic style within the D'Arienzo rhythmic school.  His nickname, "Magic Hands," referred to his virtuosic and percussive piano playing, which became his orchestral signature.
 
-Musical Approach:
+**Musical Approach:**
 Biagi's music is characterized by its sharp, clear rhythm and prominent, often syncopated piano.  His arrangements are energetic and playful, with a strong emphasis on the beat, making his music exceptionally danceable and fun.
 
-Dance Interpretation:
+**Dance Interpretation:**
 Dancing to Biagi is an invitation to playfulness and rhythmic precision.  Embrace the bouncy, energetic rhythm with quick, articulated footwork and sharp changes of direction.  Use playful embellishments to match the music's accents and create precise pauses that mirror the rhythmic "holes" in his arrangements.
 
 ### Francisco Canaro (1888-1964) - The most prolific tango orchestra
 
-Musical Journey:
+**Musical Journey:**
 Francisco Canaro was an incredibly prolific and influential figure in tango history.  A violinist and orchestra leader, he led orchestras for over five decades, recording thousands of tangos and shaping the sound of early and Golden Age tango.
 
-Musical Approach:
+**Musical Approach:**
 Canaro's style is characterized by its accessibility, versatility, and consistent quality.  His orchestras played a wide range of tango styles, from early tangos to Golden Age classics, always maintaining a clear and danceable rhythm.  His vast repertoire makes him a foundational orchestra for tango dancers.
 
-Dance Interpretation:
+**Dance Interpretation:**
 Dancing to Canaro is about embracing tradition and versatility.  His music is generally straightforward and rhythmically clear, inviting dancers to focus on solid fundamentals, good connection, and a balanced approach.  Adapt your energy level to match the tempo and mood of each Canaro piece, exploring the breadth of his vast musical output.
 
 
-Final Course Project: Personal Musicality Portfolio
+## Final Course Project: Personal Musicality Portfolio
 
-Project Overview:
+**Project Overview:**
 Create a comprehensive demonstration of your musical understanding and expression across different tango styles, orchestras, and rhythms. This project synthesizes all elements of the course into a cohesive personal statement.
 
-Project Components:
+**Project Components:**
 
-1.  Orchestra Interpretation Collection
+1.  **Orchestra Interpretation Collection**
     - Record yourself dancing to five different orchestras
     - Provide written analysis of your approach to each orchestra
     - Highlight specific musical elements you're responding to
 
-2.  Technical-Musical Integration Demonstration
+2.  **Technical-Musical Integration Demonstration**
     - Create a short sequence demonstrating how specific techniques express musical elements
     - Provide commentary on the relationship between technical execution and musical expression
     - Show the same sequence interpreted for different orchestral styles
 
-3.  Personal Tango Philosophy Statement
+3.  **Personal Tango Philosophy Statement**
     - Articulate your approach to musicality in tango
     - Describe your musical preferences and why they resonate with you
     - Outline your ongoing development goals for musical expression
 
-4.  Practical Musicality Reference Guide
+4.  **Practical Musicality Reference Guide**
     - Create a personal reference document with practical tips for dancing to different orchestras
     - Include specific musical elements to listen for in each orchestra
     - Document your preferred movement responses to common musical features
 
-Presentation Format:
+**Presentation Format:**
 Combine video recordings, written analysis, and practical documentation into a comprehensive portfolio that demonstrates your musical-dance integration. This portfolio serves as both a culmination of the course and a foundation for continued growth.
 
-Resources for Continued Development
+## Resources for Continued Development
 
-Advanced Musicality Books:
+**Advanced Musicality Books:**
 - "Tango Stories: Musical Secrets" by Michael Lavocah
 - "The Meaning of Tango" by Christine Denniston
 - "The Tango Machine" by Morgan James Luker
 - "El Tango en la Sociedad Porteña" by Hugo Lamas and Enrique Binda
 
-Musical Analysis Tools:
-- Tango DJ Resources and Music Database: [https://www.todotango.com/](https://www.todotango.com/)
-- Tango Orchestra Identification Guide: [https://tangodj.org/](https://tangodj.org/)
-- Interactive Tango Music Timeline: [https://www.tangotunes.com/en/blog/history-of-tango-music-timeline](https://www.tangotunes.com/en/blog/history-of-tango-music-timeline)
+**Musical Analysis Tools:**
+- Tango DJ Resources and Music Database: [Todo Tango](https://www.todotango.com/)
+- Tango Orchestra Identification Guide: [Tango DJ](https://tangodj.org/)
+- Interactive Tango Music Timeline: [Tango Tunes](https://www.tangotunes.com/en/blog/history-of-tango-music-timeline)
 
-Free Practice Materials:
-- Tango Music Rhythm Training App: [https://www.tangodrills.com/rhythm](https://www.tangodrills.com/rhythm)
-- Tango Ear Training Exercises: [https://www.tangomusicology.com/ear-training](https://www.tangomusicology.com/ear-training)
-- Orchestra Recognition Quizzes: [https://www.tangojam.com/orchestra-quiz](https://www.tangojam.com/orchestra-quiz)
+**Free Practice Materials:**
+- Tango Music Rhythm Training App: [Tango Drills](https://www.tangodrills.com/rhythm)
+- Tango Ear Training Exercises: [Tango Musicology](https://www.tangomusicology.com/ear-training)
+- Orchestra Recognition Quizzes: [Tango Jam](https://www.tangojam.com/orchestra-quiz)
 
-Community Resources:
-- Global Tango Exchange Forum: [https://www.facebook.com/groups/tangocommunity/](https://www.facebook.com/groups/tangocommunity/)
-- Reddit Tango Community: [https://www.reddit.com/r/tango/](https://www.reddit.com/r/tango/)
-- Free Monthly Online Tango Musicality Workshops: [https://www.tangonation.com/online-events/](https://www.tangonation.com/online-events/)
+**Community Resources:**
+- Global Tango Exchange Forum: [Facebook Tango Community](https://www.facebook.com/groups/tangocommunity/)
+- Reddit Tango Community: [Reddit Tango](https://www.reddit.com/r/tango/)
+- Free Monthly Online Tango Musicality Workshops: [Tango Nation](https://www.tangonation.com/online-events/)
 
-Appendix: The 28 Canonical Tango Orchestras
-Golden Age Masters (1935-1955)
+## Appendix: The 28 Canonical Tango Orchestras
+**Golden Age Masters (1935-1955)**
 
-Juan D'Arienzo: "El Rey del Compás" (The King of Rhythm)
-Carlos Di Sarli: "El Señor del Tango" (The Lord of Tango)
-Aníbal Troilo: "Pichuco"
-Osvaldo Pugliese: "The Last Romantic"
-Ricardo Tanturi: (with Alberto Castillo and Enrique Campos)
-Miguel Caló: "The Gentleman of Tango"
-Rodolfo Biagi: "Manos Brujas" (Magic Hands)
-Francisco Canaro: The most prolific tango orchestra
+- Juan D'Arienzo: "El Rey del Compás" (The King of Rhythm)
+- Carlos Di Sarli: "El Señor del Tango" (The Lord of Tango)
+- Aníbal Troilo: "Pichuco"
+- Osvaldo Pugliese: "The Last Romantic"
+- Ricardo Tanturi: (with Alberto Castillo and Enrique Campos)
+- Miguel Caló: "The Gentleman of Tango"
+- Rodolfo Biagi: "Manos Brujas" (Magic Hands)
+- Francisco Canaro: The most prolific tango orchestra
 
-Additional Influential Orchestras
+**Additional Influential Orchestras**
 
-Osvaldo Fresedo: "El Pibe de La Paternal"
-Angel D'Agostino: (with Angel Vargas)
-Alfredo De Angelis:
-Enrique Rodríguez: "El Señor del Organito"
-Pedro Laurenz:
-Héctor Varela:
-Orquesta Típica Victor:
+- Osvaldo Fresedo: "El Pibe de La Paternal"
+- Angel D'Agostino: (with Angel Vargas)
+- Alfredo De Angelis:
+- Enrique Rodríguez: "El Señor del Organito"
+- Pedro Laurenz:
+- Héctor Varela:
+- Orquesta Típica Victor:
 
-Conclusion: The Never-Ending Tango Journey
+## Conclusion: The Never-Ending Tango Journey
 
 The relationship between tango music and movement is a lifelong exploration that continues to deepen with experience, practice, and open-hearted engagement. This course provides a foundation and a framework, but the true development happens on the dance floor, in countless tangos shared with partners and communities around the world.
 
